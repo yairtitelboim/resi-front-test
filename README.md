@@ -21,7 +21,7 @@ To get a local copy up and running, follow these simple steps.
 2.  Install NPM packages
 
 ```bash
-  npm install
+  yarn
 ```
 
 ### Available Scripts
